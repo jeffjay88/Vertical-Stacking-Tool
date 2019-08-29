@@ -11,7 +11,7 @@ Created on Monday August 19, 2019 20:50:00
 
 ''' --> the # sign represents comment lines, and though are part of the program, they aren't executed.
         Those are just useful for the user. Also, to comment long sections, you use 3 opening and closing 
-        inverted commas or quotation marks, as used for this part and the part above.
+        inverted commas (single quotes) or quotation marks (double quotes), as used for this part and the part above.
 
 
 '''
